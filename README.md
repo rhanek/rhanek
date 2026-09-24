@@ -1,4 +1,9 @@
-# 💻 Skill
+<div align="center">
+
+<img src="./assets/Rafael_Hanek_GitHub_Animated_Banner.gif" width="100%">
+
+</div>
+
 <br /> 
 
 [![GitHub](https://img.shields.io/badge/GitHub-rhanek-181717?style=for-the-badge&logo=github)](https://github.com/rhanek)
