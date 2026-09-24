@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="./Rafael_Hanek_GitHub_Animated_Banner.gif">
-    <img src="./Rafael_Hanek_GitHub_Animated_Banner.gif" width="100%" alt="Rafael Hanek Animated Banner">
+  <a href="./[Rafael_Hanek_GitHub_Animated_Banner.gif](https://raw.githubusercontent.com/rhanek/rhanek/main/Rafael_Hanek_GitHub_Animated_Banner.gif)">
+    <img src="./[Rafael_Hanek_GitHub_Animated_Banner.gif](https://raw.githubusercontent.com/rhanek/rhanek/main/Rafael_Hanek_GitHub_Animated_Banner.gif)" width="100%" alt="Rafael Hanek Animated Banner">
   </a>
 </p>
 
