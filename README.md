@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://raw.githubusercontent.com/rhanek/rhanek/main/Rafael_Hanek_GitHub_Animated_Banner.gif">
+  <a href="https://raw.githubusercontent.com/rhanek/rhanek/main/Rafael_Hanek_GitHub_Animated_Banner.gif](https://raw.githubusercontent.com/rhanek/rhanek/main/Rafael_Hanek_GitHub_Animated_Banner.gif">
   </a>
 </p>
 <br /> 
