@@ -1,12 +1,9 @@
-<p align="center">
-  <a href="https://github.com/rhanek/rhanek/blob/main/Rafael_Hanek_GitHub_Animated_Banner.gif">
-    <img
-      src="https://raw.githubusercontent.com/rhanek/rhanek/main/Rafael_Hanek_GitHub_Animated_Banner.gif"
-      width="100%"
-      alt="Rafael Hanek - GitHub Animated Banner"
-    />
-  </a>
-</p>
+<div align="center">
+
+<img src="./assets/Rafael_Hanek_GitHub_Animated_Banner.gif" width="100%">
+
+</div>
+
 <br /> 
 
 [![GitHub](https://img.shields.io/badge/GitHub-rhanek-181717?style=for-the-badge&logo=github)](https://github.com/rhanek)
