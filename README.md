@@ -1,9 +1,12 @@
 <p align="center">
-  <a href="./[Rafael_Hanek_GitHub_Animated_Banner.gif](https://raw.githubusercontent.com/rhanek/rhanek/main/Rafael_Hanek_GitHub_Animated_Banner.gif)">
-    <img src="./Rafael_Hanek_GitHub_Animated_Banner.gif](https://raw.githubusercontent.com/rhanek/rhanek/main/Rafael_Hanek_GitHub_Animated_Banner.gif" width="100%" alt="Rafael Hanek Animated Banner">
+  <a href="https://raw.githubusercontent.com/rhanek/rhanek/main/Rafael_Hanek_GitHub_Animated_Banner.gif">
+    <img
+      src="https://raw.githubusercontent.com/rhanek/rhanek/main/Rafael_Hanek_GitHub_Animated_Banner.gif"
+      width="100%"
+      alt="Rafael Hanek"
+    >
   </a>
 </p>
-
 <br /> 
 
 [![GitHub](https://img.shields.io/badge/GitHub-rhanek-181717?style=for-the-badge&logo=github)](https://github.com/rhanek)
