@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Rafael_Hanek_GitHub_Animated_Banner.gif" width="100%">
+<img src="./Rafael_Hanek_GitHub_Animated_Banner.gif" width="100%">
 
 </div>
 
