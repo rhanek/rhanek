@@ -1,8 +1,8 @@
-<div align="center">
-
-<img src="./Rafael_Hanek_GitHub_Animated_Banner.gif" width="100%">
-
-</div>
+<p align="center">
+  <a href="./Rafael_Hanek_GitHub_Animated_Banner.gif">
+    <img src="./Rafael_Hanek_GitHub_Animated_Banner.gif" width="100%" alt="Rafael Hanek Animated Banner">
+  </a>
+</p>
 
 <br /> 
 
