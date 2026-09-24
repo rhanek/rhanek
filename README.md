@@ -1,8 +1,9 @@
 # 💻 Skill
 <br /> 
 
-![rhanek stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rhanek&hide_border=true&&count_private=true&count_private=true&layout=compact&langs_count=16&theme=dracula)
-![rhanek stats](https://github-readme-stats.vercel.app/api?username=rhanek&show_icons=true&theme=dracula&hide=contribs,prs&cache_secons=1800&hide_border=true&include_all_commits=true&&count_private=true&count_private=true)
+[![GitHub](https://img.shields.io/badge/GitHub-rhanek-181717?style=for-the-badge&logo=github)](https://github.com/rhanek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+
 ## Languages
 <p>
   <img  height="38" alingn="left" src="./public/images/ts.png" alt="ts" />
